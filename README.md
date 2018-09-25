@@ -1,3 +1,3 @@
-# Sort file
+# Sort log file
 
-Sort a big log file
+A program written in Python that takes a big log file and sort the lines
